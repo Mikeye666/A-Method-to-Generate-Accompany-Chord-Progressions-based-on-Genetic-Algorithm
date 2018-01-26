@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1396454609 source:d:\源代码\科创项目\自动生成和弦\main.cpp
+	"PublicHead.h"
+
+1395581005 source:d:\源代码\科创项目\自动生成和弦\functions.cpp
+	"PublicHead.h"
+
+1399729133 d:\源代码\科创项目\自动生成和弦\publichead.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<map>
+	<cmath>
+	<ctime>
+	"Note.h"
+	"Phrase.h"
+	"ScoreRecord.h"
+
+1396193481 d:\源代码\科创项目\自动生成和弦\note.h
+
+1399798023 d:\源代码\科创项目\自动生成和弦\phrase.h
+	"PublicHead.h"
+
+1396107062 source:d:\源代码\科创项目\自动生成和弦\io.cpp
+	"PublicHead.h"
+
+1399737290 source:d:\源代码\科创项目\自动生成和弦\chordprocess.cpp
+	"PublicHead.h"
+
+1399729125 source:d:\源代码\科创项目\自动生成和弦\noteprocess.cpp
+	"PublicHead.h"
+
+1396335624 source:d:\源代码\科创项目\自动生成和弦\numericalmethod.cpp
+	"PublicHead.h"
+
+1396107322 source:d:\源代码\科创项目\自动生成和弦\initializ.cpp
+	"PublicHead.h"
+
+1396089180 d:\源代码\科创项目\自动生成和弦\scoreboard.h
+
+1396106096 d:\源代码\科创项目\自动生成和弦\scorerecord.h
+
+1399989496 source:d:\源代码\科创项目\自动生成和弦2\chordprocess.cpp
+	"PublicHead.h"
+
+1399987948 d:\源代码\科创项目\自动生成和弦2\publichead.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<map>
+	<cmath>
+	<ctime>
+	"Note.h"
+	"Phrase.h"
+	"ScoreRecord.h"
+
+1396193481 d:\源代码\科创项目\自动生成和弦2\note.h
+
+1399976682 d:\源代码\科创项目\自动生成和弦2\phrase.h
+	"PublicHead.h"
+
+1396106096 d:\源代码\科创项目\自动生成和弦2\scorerecord.h
+
+1396107322 source:d:\源代码\科创项目\自动生成和弦2\initializ.cpp
+	"PublicHead.h"
+
+1396107062 source:d:\源代码\科创项目\自动生成和弦2\io.cpp
+	"PublicHead.h"
+
+1399981456 source:d:\源代码\科创项目\自动生成和弦2\main.cpp
+	"PublicHead.h"
+
+1399729125 source:d:\源代码\科创项目\自动生成和弦2\noteprocess.cpp
+	"PublicHead.h"
+
+1396335624 source:d:\源代码\科创项目\自动生成和弦2\numericalmethod.cpp
+	"PublicHead.h"
+
